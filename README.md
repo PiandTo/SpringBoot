@@ -1,12 +1,11 @@
-SpringBoot
+# SpringBoot
 
-Spring MVC & Hibernate
+# Spring MVC & Hibernate
 
-Description
-
+# Description
 You need to implement a movie theater administrator functionality using Spring MVC mechanisms.
 
-Stack
+# Stack
 
 Spring MVC
 Hibernate Framework in conjuction with JPA
